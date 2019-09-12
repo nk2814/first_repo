@@ -2,7 +2,7 @@
 title: "09122019_rmd_git"
 author: "Naama Kipperman"
 date: "9/12/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
